@@ -1,0 +1,35 @@
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "2n5-jm-84A"; */
+"2n5-jm-84A.text" = "Description";
+
+"2n5-jm-84A.text" = "الوصف";
+
+/* Class = "UINavigationItem"; title = "Note"; ObjectID = "7jP-FD-Fai"; */
+"7jP-FD-Fai.title" = "Note";
+"7jP-FD-Fai.title" = "ملاحظة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HhC-WH-P6E"; */
+"HhC-WH-P6E.normalTitle" = "Button";
+"HhC-WH-P6E.normalTitle" = "زر";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "Id3-7m-BOl"; */
+"Id3-7m-BOl.text" = "Description";
+"Id3-7m-BOl.text" = "الوصف";
+
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "UeU-lk-qOF"; */
+"UeU-lk-qOF.text" = "Title";
+"UeU-lk-qOF.text" = "عنوان";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "UuX-Oa-LSS"; */
+"UuX-Oa-LSS.configuration.title" = "Save";
+"UuX-Oa-LSS.configuration.title" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UuX-Oa-LSS"; */
+"UuX-Oa-LSS.normalTitle" = "Button";
+"UuX-Oa-LSS.normalTitle" = "زر";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vDr-Wf-acm"; */
+"vDr-Wf-acm.text" = "Title";
+"vDr-Wf-acm.text" = "عنوان";
+
